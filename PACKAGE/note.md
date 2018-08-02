@@ -242,3 +242,5 @@
 - zip
 - math
 - string
+
+# [Log模块资料](https://www.cnblogs.com/yyds/p/6901864.html)

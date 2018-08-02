@@ -38,3 +38,5 @@ lt = time.localtime()
 ts = time.mktime(lt)
 print(type(ts))
 print(ts)
+
+#sleep: 使程序进入睡眠,n秒后继续
