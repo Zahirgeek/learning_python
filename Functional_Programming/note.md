@@ -31,3 +31,57 @@
 
 ### zip
 - 把两个可迭代内容生成一个可迭代的tuple元素类型组成的内容
+
+### collections模块
+- namedtuple
+    - tuple类型
+    - 给元组命名
+    
+            import collections
+
+            Person = collections.namedtuple("Student",["name","age","sex"])
+
+            Zahir = Person("Zahir", "18", "male")
+
+            print(Zahir.sex)
+- deque
+
+        from collections import  deque
+
+        q = deque(["a", "b", "c"])
+        print(q)
+
+        q.append("d")
+        print(q)
+
+        q.appendleft("x")
+        print(q)
+- 比较方便的解决了频繁删除插入带来的效率问题
+
+- defaultdict
+    - 当直接读取dict不存在的属性时,直接返回默认值
+ 
+            from collections import defaultdict
+
+            func = lambda : "Zahir"
+            d1 = defaultdict(func)
+            d1["one"] = 1
+
+            print(d1["one"])
+            print(d1["four"])
+- counter
+    -统计字符串个数
+        
+            from collections import Counter
+            #下面结果不以abcdefgabcabcdabcaba作为键值,而是以其中每一个字母作为键值
+            # 因为括号里的内容是可迭代的
+            c = Counter("abcdefgabcabcdabcaba") 
+            #Counter({'a': 6, 'b': 5, 'c': 4, 'd': 2, 'e': 1, 'f': 1, 'g': 1})
+            print(c)
+            
+            
+            from collections import Counter
+            s = ["Zahir", "is", "is", "is", "a", "boy"]
+            c = Count(s)
+            #Counter({'is': 3, 'Zahir': 1, 'a': 1, 'boy': 1})
+            print(c)
