@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="UTF-8" />
+<meta name="keywords" content="" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta name="description" content="北京千锋互联科技有限公司诚聘Python讲师5人，工作地点位于北京-海淀区，薪资待遇15000-25000元/月，学历要求本科或以上，工作经验1-3年等更多招聘信息请点击查看详情【智联招聘,为您提供靠谱的人才招聘信息】" />
+<title>【Python讲师_北京千锋互联科技有限公司人才招聘信息】 - 智联招聘</title>
+<meta name="mobile-agent" content="format=html5; url=https://m.zhaopin.com/jobs/390261416251663/" />
+<link rel="alternate" media="only screen and(max-width: 640px)" href="https://m.zhaopin.com/jobs/390261416251663/">
+<link type="text/css" rel="stylesheet" href="//img01.zhaopin.cn/2014/common/css/reset.css" />
+<link type="text/css" rel="stylesheet" href="//img01.zhaopin.cn/2014/rd2/css/terminalpage.css?version=20151104" />
+<link type="text/css" rel="stylesheet" href="//jobs.zhaopin.com/css/apply.css" />
+<link type="text/css" rel="stylesheet" href="//img01.zhaopin.cn/2014/rd2/css/best-plugs.css" />
+<link rel="canonical" href="http://jobs.zhaopin.com/390261416251663.htm" />
+<script type="text/javascript">
+        var arrVarFromASP = ['', 'CC390261416J90251663000_530_1', 'Python讲师', 'http://jobs.zhaopin.com/390261416251663.htm', '0001-01-02', 'y', '北京', 'http://company.zhaopin.com/CZ390261410.htm', '1'];
+        var ApplyUrl = "";
+        var PositionExtID = "CC390261416J90251663000";
+        var Str_CompName = "北京千锋互联科技有限公司";
+        var tjUrl = "//my.zhaopin.com/myzhaopin/SimilarPosition.asp?pid=CC390261416J90251663000&edu=4&ind=201100&miny=&subtype=131&cityid=530";
+        var dateRefreshUrl = "//jobs.zhaopin.com/beijing/dtref/CC390261416J90251663000.htm";
+    </script>
+</head>
+<body>
+<link rel="stylesheet" href="//img06.zhaopin.cn/2014/head_foot/css/head_foot.css">
+<div class="all_headcontainer">
+<div class="all_top">
+<div class="all_topcontent">
+<div class="all_topcontenter">
+<div class="all_addMod">
+<div id="companyLoginregin">
+<a href="#" id="login_text" class="allhead_login all_common" rel="nofollow" onclick="dyweTrackEvent('newtopbarLU','clickPersonLogin')">登录</a><span class="allhead_sep"></span><a href="//passport.zhaopin.com/account/register" class="allhead_regi all_common" onclick="dyweTrackEvent('addnewlink','personregister')" rel="nofollow">注册</a>
+</div>
+<div id="companyLogining" style="display: none;">
+<span id="personname" title="" class="allhead_login all_common"></span><span class="allhead_sep"></span><a href="#" id="personcheckout" onclick="dyweTrackEvent('addnewlink','personexit')" class="allhead_login all_common">退出</a>
+</div>
+</div>
+<div class="all_addDiv">
+<a href="https://rd5.zhaopin.com/custom/register?za=2&ps=1" class="allhead_postoffice all_common" target="_blank" onclick="dyweTrackEvent('addnewlink','compuser')" rel="nofollow"></a>
+<span><i class="all_icon allhead_tel"></i><b class="allhead_telcon">400-885-9898</b></span>
+<strong><a href="//jobs.zhaopin.com/citymapsj131.html" class="allchoice_city all_common" target="_blank" onclick="dyweTrackEvent('addnewlink','choosecity')">切换城市</a></strong>
+<i class="all_icon allhead_phone"></i><a href="//img00.zhaopin.cn/2012/other/mobile/mobile.html" class="allhead_phonecon all_common" target="_blank" onclick="dyweTrackEvent('addnewlink','mobilejob')" rel="nofollow">手机求职</a>
+</div>
+</div>
+</div>
+</div>
+<div class="all_nav">
+<div class="all_navcontent">
+<a href="http://www.zhaopin.com/" class="allhead_img" title="智联招聘">
+<img src="//img01.zhaopin.cn/2014/head_foot/img/Allhead_logo.png" alt="智联招聘">
+</a>
+<ul class="all_navlist">
+<li><a href="http://www.zhaopin.com/">首页</a></li>
+<li><a href="http://my.zhaopin.com/">简历中心</a></li>
+<li><a href="http://sou.zhaopin.com/">职位搜索</a></li>
+<li><a href="http://xiaoyuan.zhaopin.com/" target="_blank">校园招聘</a></li>
+<li><a href="http://www.highpin.cn/zhiwei/?fromType=12&amp;utm_source=zpsygdad&amp;utm_medium=cpc&amp;utm_content=zpsygdadtextlink&amp;utm_campaign=zpsygdadanalytics&amp;utm_term=onlinepromo_201402">高端招聘</a></li>
+<li><a href="http://edu.zhaopin.com/" target="_blank" onclick="dyweTrackEvent('addnewlink','educchannal')">智联教育</a></li>
+<li><a href="http://www.zhaopin.com/jobseeker/index_industry.html" target="_blank">行业求职</a></li>
+<li><a href="http://article.zhaopin.com/">求职指导</a></li>
+<li><a href="http://ceping.zhaopin.com/" target="_blank" rel="nofollow">智联测评</a></li>
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="//img08.zhaopin.cn/2014/head_foot/js/head_foot.js"></script>
+<div class="announcement">
+<div class="announcement-icon">智联提示您：用人单位以任何名义向应聘者收取费用都属违法行为（如押金、资料费、代收体检费、代收淘宝信誉等），请提高警惕并注意保护个人信息！</div>
+</div>
+<div class="clearfix"></div>
+<div class="bread_crumbs">
+<span>您当前所在位置</span><a href="//jobs.zhaopin.com" target="_blank"><strong>首页</strong></a>&gt;<a href="//jobs.zhaopin.com/beijing/" target="_blank"><strong>北京人才网</strong></a>&gt;<a href="//jobs.zhaopin.com/beijing/sj131/" target="_blank"><strong>北京培训师/讲师招聘</strong></a>&gt;<span>当前页面</span>
+</div>
+<div class="top-fixed-box">
+<div class="fixed-inner-box">
+<div class="inner-left fl">
+<h1>Python讲师</h1>
+<h2><a onclick="recordOutboundLink(this, 'terminalpage', 'tocompanylink3');" href="http://company.zhaopin.com/CZ390261410.htm" target="_blank">北京千锋互联科技有限公司 <img class="icon_vip" src="//img03.zhaopin.cn/IHRNB/img/detailvipm.png" border="0" vinfo="%7b%22endtime%22%3a1564675199000%2c%22limitcount%22%3a2000%2c%22orgid%22%3a39026141%2c%22rdorgid%22%3a39026141%2c%22staffid%22%3a0%2c%22starttime%22%3a1500110710901%2c%22total%22%3a2000%2c%22type%22%3a1005%2c%22userid%22%3a1%2c%22vipName%22%3a%22%e6%99%ba%e4%ba%abVIP%e4%bc%9a%e5%91%98%22%7d"/></a></h2>
+<div style="width:683px;" class="welfare-tab-box"> <span>五险一金</span><span>绩效奖金</span><span>交通补助</span><span>带薪年假</span><span>弹性工作</span><span>定期体检</span><span>员工旅游</span><span>周末双休</span> </div>
+<div class="lightspot"></div>
+</div>
+<div class="inner-right fr">
+<button style="display:none;" class="now-apply" onclick="zlzp.searchjob.ajaxApplyBrig3('1');dyweTrackEvent('bjobsdetail14gb','directapply_top_right');" id="applyVacButton2" title="申请职位"></button>
+</div>
+</div>
+</div>
+<div class="terminalpage clearfix">
+<div class="terminalpage-left">
+<ul class="terminal-ul clearfix">
+<li><span>职位月薪：</span><strong>15000-25000元/月&nbsp;<a href="http://www.zhaopin.com/gz_beijing/" target="_blank" title="北京工资计算器"><img src="//jobs.zhaopin.com/images/calculator.png" alt="北京工资计算器" /></a></strong></li>
+<li><span>工作地点：</span><strong><a target="_blank" href="http://www.zhaopin.com/beijing/">北京</a>-海淀区</strong></li>
+<li><span>发布日期：</span><strong><span id="span4freshdate">2018-07-16 15:56:59</span></strong></li>
+<li><span>工作性质：</span><strong>全职</strong></li>
+<li><span>工作经验：</span><strong>1-3年</strong></li>
+<li><span>最低学历：</span><strong>本科</strong></li>
+<li><span>招聘人数：</span><strong>5人 </strong></li>
+<li><span>职位类别：</span><strong><a target="_blank" href="//jobs.zhaopin.com/beijing/sj131/">培训师/讲师</a></strong></li>
+</ul>
+<div class="terminalpage-main clearfix">
+<ul class="tab-ul">
+<li class="current">职位描述</li>
+<li>公司介绍</li>
+</ul>
+<p class="collect fr"><a href="javascript:void(0)" class="reportBtn" id="reportBtn"><font></font>举报</a><a href="javascript:void(0)" rel="nofollow" onclick="zlapply.searchjob.saveJobTerminalApply(); dyweTrackEvent('bjobsdetail14gb', 'jobcollection'); return false;"><i></i>收藏</a></p>
+<div class="tab-cont-box">
+<div class="tab-inner-cont">
+<p><span style=";font-family:宋体;font-size:14px">【</span><span style=";font-family:宋体;font-size:14px">寻找优秀的你</span><span style=";font-family:宋体;font-size:14px">】</span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px">觉得自己的潜力没有被挖掘？想要拥有无限的发展空间？</span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px">希望通过自己的努力取得进步、获得高薪？寻找一个释放光彩的机会？</span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px">千锋教育，为你提供实现梦想的平台，见证你的成长，助你走向人生巅峰！</span></p><p><span style=";font-family:Calibri;font-size:14px"> </span></p><p><span style=";font-family:宋体;font-size:14px">【</span><span style=";font-family:宋体;font-size:14px">关于千锋教育</span><span style=";font-family:宋体;font-size:14px">】</span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px">千锋教育，一家用良心做教育的公司；</span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">千锋教育，一家致力于打造</span>IT<span style="font-family:宋体">教育全产业链人才服务平台的公司；</span></span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">千锋教育，一家在全国</span>14<span style="font-family:宋体">个城市设立分公司、年均培养优质人才</span><span style="font-family:Calibri">20000</span><span style="font-family:宋体">余人、同期在校学员达到</span><span style="font-family:Calibri">5000</span><span style="font-family:宋体">余人、合作院校超</span><span style="font-family:Calibri">500</span><span style="font-family:宋体">所、合作企业超</span><span style="font-family:Calibri">10000</span><span style="font-family:宋体">家的公司；</span></span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px">千锋教育，一家回馈社会、奉献社会，为中国大学生解决就业问题的公司。</span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">千锋教育秉承</span>&ldquo;用良心做教育&rdquo;的理念，开设了<span style="font-family:Calibri">IT</span><span style="font-family:宋体">互联网十一大教学体系，通过全方位、多角度的服务为学员提供优质的教育服务，优化学员的学习体验。</span></span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">随着公司快速发展，千锋教育收获了社会各界的认可，未来，千锋仍会坚持</span>&ldquo;用良心做教育&rdquo;的理念，联手企业、协同高校、为更多的大学生实现职业理想！</span></p><p style="text-indent:28px"><span style=";font-family:Calibri;font-size:14px"> </span></p><p><span style=";font-family:Calibri;font-size:14px"> </span></p><p><span style="font-family:宋体"><strong>Python讲师</strong></span></p><p><strong><span style="font-family: 宋体;font-size: 14px"><br/></span></strong></p><p><strong><span style="font-family: 宋体;font-size: 14px">【岗位要求】</span></strong></p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);">1、负责Python课程体系设计和完善；</p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);">2、<span style="color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; background-color: rgb(255, 255, 255);">负责Python课程爬虫、数据分析、网站开发的讲授；</span></p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);">3、完成领导交办的其它工作。</p><p style="text-indent:28px"><br/></p><p><strong><span style="font-family: 宋体;font-size: 14px">【任职资格】</span></strong></p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);">1、至少2年以上Python编程经验；</p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);">2、熟练运用Python语言及常用模块；</p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);"><span style="line-height: 1.5;">3、熟悉django等常用开发框架；</span><br/></p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);"><span style="line-height: 1.5;">4、熟悉Mysql, oracle数据库中任何一种；</span><br/></p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);"><span style="line-height: 1.5;">5、熟悉HTTP, Javascript, HTML；</span><br/></p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);"><span style="line-height: 1.5;">6、熟悉树莓派设备python开发；</span><br/></p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);"><span style="line-height: 1.5;">7、熟悉python机器学习实战；</span><br/></p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);"><span style="line-height: 1.5;">8、精通Linux下Shell、Python两种脚本语言；</span><br/></p><p style="font-family: simsun; margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: normal; line-height: 25px; color: rgb(51, 51, 51); white-space: normal; background-color: rgb(255, 255, 255);"><span style="line-height: 1.5;">9、精通基于Linux应用程序的管理和配置，如Tomcat、Redis、Zookeeper、Jdk、Nginx、LVS、FastDFS、GFS等。</span></p><p style="text-indent:28px"><span style=";font-family:Calibri;font-size:14px"></span><br/></p><p><strong><span style="font-family: 宋体;font-size: 14px">【办公地点】</span></strong></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">北京、深圳、上海、郑州、广州、大连、武汉、成都、西安、杭州、青岛、重庆、长沙、哈尔滨等全国</span>14<span style="font-family:宋体">个分公司，各地城市任你选择。</span></span></p><p style="text-indent:28px"><span style=";font-family:Calibri;font-size:14px"> </span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px">别自甘平凡，却在日复一日的机械工作中自怨自艾！别自觉聪明，却在钢筋水泥的熙攘城市中苦苦自虐！来千锋，实现你的梦想！</span></p><p><br/></p>
+<b>工作地址：</b>
+<h2>
+北京市海淀区宝盛北里西区28号天丰利商厦4层
+</h2>
+<p>
+<button id="applyVacButton1" class="button-small" title="申请职位" onclick="zlzp.searchjob.ajaxApplyBrig3('1');dyweTrackEvent('bjobsdetail14gb','directapply_middle');"></button>
+</p>
+</div>
+<div class="tab-inner-cont" style="display:none;word-wrap:break-word;">
+<h5><a rel="nofollow" href="http://company.zhaopin.com/CZ390261410.htm" onclick="recordOutboundLink(this, 'terminalpage', 'tocompanylink4');" target="_blank">北京千锋互联科技有限公司 <img class="icon_vip" src="//img03.zhaopin.cn/IHRNB/img/detailvipm.png" border="0" vinfo="%7b%22endtime%22%3a1564675199000%2c%22limitcount%22%3a2000%2c%22orgid%22%3a39026141%2c%22rdorgid%22%3a39026141%2c%22staffid%22%3a0%2c%22starttime%22%3a1500110710901%2c%22total%22%3a2000%2c%22type%22%3a1005%2c%22userid%22%3a1%2c%22vipName%22%3a%22%e6%99%ba%e4%ba%abVIP%e4%bc%9a%e5%91%98%22%7d"/></a><a target="_blank" class="color-blue fr see-other-job" href="http://company.zhaopin.com/CZ390261410.htm" rel="nofollow" onclick="recordOutboundLink(this, 'terminalpage', 'tocompanylink2');">该公司其他职位</a></h5>
+<p>
+<p>千锋互联集团：</p><p><br></p><p>&nbsp;北京千锋互联科技有限公司（简称千锋）成立于2011年1月。公司总部位于北京，目前已在深圳、上海、郑州、广州、大连、武汉、成都、西安、杭州、青岛、重庆、长沙、哈尔滨建立分公司。目前公司已经融资，筹备上市中。</p><p><br></p><p>千锋旗下现有教育培训、人才服务、项目研发、创业孵化等业务。教育培训业务主要为大学生、企业提供技术培训服务；人才服务业务主要为企业提供优秀的互联网研发人才；项目研发业务主要为企业提供APP解决方案及APP项目研发；创业孵化业务为有创业梦想的学员设立，为其提供创业辅导及天使投资等服务。</p><p><br></p><p>千锋秉承着“用良心做教育”的理念踏踏实实的做事，自成立以来每年以超过100%的发展速度增长，在创办第4年营收过亿，成为业内口碑好、规模大、教学强的移动互联网研发培训机构。目前已与国内超过5000家IT相关企业建立人才输送合作，与500多所大学建立实训就业合作，每年为中国IT企业输送上万名移动开发工程师。计划未来5年内实现年营收过10亿，为中国教育行业贡献一份力量。</p><p><br></p><p>网址:www.1000phone.com&nbsp;</p><p><br></p>
+</p>
+<h3></h3>
+<p>
+</p>
+</div>
+</div>
+</div>
+<div class="today_recommend">
+<ul class="tab-ul">
+<li class="current">职位推荐</li>
+<li>今日相似推荐</li>
+</ul>
+</div>
+<div class="tab-cont-box">
+<div class="tab-inner-cont" style="display: block;">
+<div class="similar-job" id="job-zxzwtj">
+<form name="myform" method="post" id="myform2" action="">
+<div class="applay-All dlapplay-all applay-All-b">
+<label><input type="checkbox" name="allvacancyid" onclick="ChkSelectAll('vacancyid', 'allvacancyid', this)" checked="" id="allvacancyid">全选</label><button onclick="return CheckApply(event);" class="selectall-btn" type="button"></button>
+</div>
+<ul class="batch_ul">
+<li><p class="pone"><input checked="" name="vacancyid" value="CC562656488J90250004000_530_1_100_300__2_" data-apply="1" data-url="http://jobs.zhaopin.com/562656488250004.htm" onclick="unChkSelectAll('allvacancyid')" type="checkbox" /><a href="http://jobs.zhaopin.com/562656488250004.htm" par="ssidkey=y&ff=ssb&ss=201" class="job-name" target="_blank" title="兼职科学课程讲师">兼职科学课程讲师</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CZ562656480.htm" class="company-name" target="_blank" title="北京信美善教育科技有限公司">北京信美善教育科技有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC562656488J90250004000_530_1_100_300__2_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC158770210J90250010000_530_1_100_300__2_" data-apply="1" data-url="http://jobs.zhaopin.com/158770210250010.htm" onclick="unChkSelectAll('allvacancyid')" type="checkbox" /><a href="http://jobs.zhaopin.com/158770210250010.htm" par="ssidkey=y&ff=ssb&ss=201" class="job-name" target="_blank" title="语文学科带头人">语文学科带头人</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CC158770210.htm" class="company-name" target="_blank" title="北京市现代教学研究所">北京市现代教学研究所</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC158770210J90250010000_530_1_100_300__2_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CZ714110730J00066121009_530_1_100_300__2_" data-apply="1" data-url="http://jobs.zhaopin.com/CZ714110730J00066121009.htm" onclick="unChkSelectAll('allvacancyid')" type="checkbox" /><a href="http://jobs.zhaopin.com/CZ714110730J00066121009.htm" par="ssidkey=y&ff=ssb&ss=201" class="job-name" target="_blank" title="消防讲师">消防讲师</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CZ714110730.htm" class="company-name" target="_blank" title="北京市大兴区众合平安消防职业技能培训学校">北京市大兴区众合平安消防职业技能培训学校</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CZ714110730J00066121009_530_1_100_300__2_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CZ714110730J00051182509_530_1_100_300__2_" data-apply="1" data-url="http://jobs.zhaopin.com/CZ714110730J00051182509.htm" onclick="unChkSelectAll('allvacancyid')" type="checkbox" /><a href="http://jobs.zhaopin.com/CZ714110730J00051182509.htm" par="ssidkey=y&ff=ssb&ss=201" class="job-name" target="_blank" title="消防讲师助教">消防讲师助教</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CZ714110730.htm" class="company-name" target="_blank" title="北京市大兴区众合平安消防职业技能培训学校">北京市大兴区众合平安消防职业技能培训学校</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CZ714110730J00051182509_530_1_100_300__2_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CZ818280090J00074834713_530_1_100_300__2_" data-apply="1" data-url="http://jobs.zhaopin.com/CZ818280090J00074834713.htm" onclick="unChkSelectAll('allvacancyid')" type="checkbox" /><a href="http://jobs.zhaopin.com/CZ818280090J00074834713.htm" par="ssidkey=y&ff=ssb&ss=201" class="job-name" target="_blank" title="早教幼教师资培训师">早教幼教师资培训师</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CZ818280090.htm" class="company-name" target="_blank" title="华谊道尔顿国际教育咨询(北京)有限公司">华谊道尔顿国际教育咨询(北京)有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CZ818280090J00074834713_530_1_100_300__2_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC187965628J00055052110_530_1_100_300__2_" data-apply="1" data-url="http://jobs.zhaopin.com/CC187965628J00055052110.htm" onclick="unChkSelectAll('allvacancyid')" type="checkbox" /><a href="http://jobs.zhaopin.com/CC187965628J00055052110.htm" par="ssidkey=y&ff=ssb&ss=201" class="job-name" target="_blank" title="web前端讲师">web前端讲师</a></p><p class="ptwo"><a href="http://special.zhaopin.com/pagepublish/18796562/index.html" class="company-name" target="_blank" title="北京八维研修学院">北京八维研修学院</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC187965628J00055052110_530_1_100_300__2_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CZ603022930J00018033911_530_1_100_300__2_" data-apply="1" data-url="http://jobs.zhaopin.com/CZ603022930J00018033911.htm" onclick="unChkSelectAll('allvacancyid')" type="checkbox" /><a href="http://jobs.zhaopin.com/CZ603022930J00018033911.htm" par="ssidkey=y&ff=ssb&ss=201" class="job-name" target="_blank" title="讲师培训师">讲师培训师</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CZ603022930.htm" class="company-name" target="_blank" title="北京德源盛成生物科技有限公司">北京德源盛成生物科技有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CZ603022930J00018033911_530_1_100_300__2_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC519265529J90250233000_530_1_100_300__2_" data-apply="1" data-url="http://jobs.zhaopin.com/519265529250233.htm" onclick="unChkSelectAll('allvacancyid')" type="checkbox" /><a href="http://jobs.zhaopin.com/519265529250233.htm" par="ssidkey=y&ff=ssb&ss=201" class="job-name" target="_blank" title="会销讲师">会销讲师</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CC519265529.htm" class="company-name" target="_blank" title="北京红缨时代教育科技有限公司">北京红缨时代教育科技有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC519265529J90250233000_530_1_100_300__2_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC146553580J00066155913_530_1_100_300__2_" data-apply="1" data-url="http://jobs.zhaopin.com/CC146553580J00066155913.htm" onclick="unChkSelectAll('allvacancyid')" type="checkbox" /><a href="http://jobs.zhaopin.com/CC146553580J00066155913.htm" par="ssidkey=y&ff=ssb&ss=201" class="job-name" target="_blank" title="消防教研">消防教研</a></p><p class="ptwo"><a href="http://company.zhaopin.com/P9/CC1465/5358/CC146553580.htm" class="company-name" target="_blank" title="北京中业汇智教育科技有限公司">北京中业汇智教育科技有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC146553580J00066155913_530_1_100_300__2_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CZ545898930J00075993510_530_1_100_300__2_" data-apply="1" data-url="http://jobs.zhaopin.com/CZ545898930J00075993510.htm" onclick="unChkSelectAll('allvacancyid')" type="checkbox" /><a href="http://jobs.zhaopin.com/CZ545898930J00075993510.htm" par="ssidkey=y&ff=ssb&ss=201" class="job-name" target="_blank" title="急聘一级建造师讲师">急聘一级建造师讲师</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CZ545898930.htm" class="company-name" target="_blank" title="北京天谱在线教育科技有限公司">北京天谱在线教育科技有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CZ545898930J00075993510_530_1_100_300__2_')"></strong></p></li>
+</ul>
+<div class="applay-All dlapplay-all applay-All-b">
+<label><input type="checkbox" onclick="ChkSelectAll('vacancyid', 'allvacancyid', this)" name="allvacancyid" checked="" id="allvacancyid">全选</label><button onclick="return CheckApply(event);" class="selectall-btn" type="button"></button>
+</div><p class="see-more fr"><a rel="nofollow" href="//sou.zhaopin.com/jobs/searchresult.ashx?sj=131&jl=北京" target="blank" onclick="dyweTrackEvent('bjobsdetail14gb','showmoresimjobs');">查看更多职位推荐 &gt;&gt;</a></p>
+</form>
+</div>
+</div>
+<div class="tab-inner-cont" style="display: none">
+<div class="similar-job" id="job-xszwtj">
+<form name="myform" method="post" id="myform1" action="">
+<div class="applay-All dlapplay-all applay-All-b">
+<label><input type="checkbox" name="allvacancyid" onclick="ChkSelectAll('vacancyid', 'allvacancyid', this)" checked="" id="allvacancyid">全选</label><button onclick="return CheckApply(event);" class="selectall-btn" type="button"></button>
+</div>
+<ul class="batch_ul">
+<li><p class="pone"><input checked="" name="vacancyid" value="CC562114535J90250039000_530_1_31_301__1_" onclick="unChkSelectAll('allvacancyid')" type="checkbox"><a href="http://jobs.zhaopin.com/562114535250039.htm" par="ssidkey=y&ff=ssb&ss=301" class="job-name" target="_blank" title="python开发工程师 [北京]">python开发工程师 [北京]</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CC562114535.htm" class="company-name" target="_blank" title="深圳市源极光科技有限公司">深圳市源极光科技有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC562114535J90250039000_530_1_31_301__1_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC120708281J00059455209_530_1_31_301__1_" onclick="unChkSelectAll('allvacancyid')" type="checkbox"><a href="http://jobs.zhaopin.com/CC120708281J00059455209.htm" par="ssidkey=y&ff=ssb&ss=301" class="job-name" target="_blank" title="python开发">python开发</a></p><p class="ptwo"><a href="http://www2.zhaopin.com/html/12070828.html" class="company-name" target="_blank" title="北京网梯科技发展有限公司">北京网梯科技发展有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC120708281J00059455209_530_1_31_301__1_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC465341913J90250539000_530_1_31_301__1_" onclick="unChkSelectAll('allvacancyid')" type="checkbox"><a href="http://jobs.zhaopin.com/465341913250539.htm" par="ssidkey=y&ff=ssb&ss=301" class="job-name" target="_blank" title="python开发工程师">python开发工程师</a></p><p class="ptwo"><a href="http://company.zhaopin.com/%E8%BF%AA%E5%8E%9F%E5%88%9B%E6%96%B0%28%E5%8C%97%E4%BA%AC%29%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8_CC465341913.htm" class="company-name" target="_blank" title="迪原创新(北京)科技有限公司">迪原创新(北京)科技有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC465341913J90250539000_530_1_31_301__1_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC286835882J00063360112_530_1_31_301__1_" onclick="unChkSelectAll('allvacancyid')" type="checkbox"><a href="http://jobs.zhaopin.com/CC286835882J00063360112.htm" par="ssidkey=y&ff=ssb&ss=301" class="job-name" target="_blank" title="python开发">python开发</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CC286835882.htm" class="company-name" target="_blank" title="北京顺顺必达信息咨询有限公司">北京顺顺必达信息咨询有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC286835882J00063360112_530_1_31_301__1_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC313785038J90250821000_530_1_31_301__1_" onclick="unChkSelectAll('allvacancyid')" type="checkbox"><a href="http://jobs.zhaopin.com/313785038250821.htm" par="ssidkey=y&ff=ssb&ss=301" class="job-name" target="_blank" title="Python研发工程师">Python研发工程师</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CC313785038.htm" class="company-name" target="_blank" title="上海诚信互通网络信息科技有限公司">上海诚信互通网络信息科技有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC313785038J90250821000_530_1_31_301__1_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CZ466965980J00054732107_530_1_31_301__1_" onclick="unChkSelectAll('allvacancyid')" type="checkbox"><a href="http://jobs.zhaopin.com/CZ466965980J00054732107.htm" par="ssidkey=y&ff=ssb&ss=301" class="job-name" target="_blank" title="python开发工程师（北京）">python开发工程师（北京）</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CC466965980.htm" class="company-name" target="_blank" title="深圳市芒柠科技有限公司">深圳市芒柠科技有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CZ466965980J00054732107_530_1_31_301__1_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC120028993J90250400000_530_1_31_301__1_" onclick="unChkSelectAll('allvacancyid')" type="checkbox"><a href="http://jobs.zhaopin.com/120028993250400.htm" par="ssidkey=y&ff=ssb&ss=301" class="job-name" target="_blank" title="python开发工程师">python开发工程师</a></p><p class="ptwo"><a href="http://company.zhaopin.com/P10/CC1200/2899/CC120028993.htm" class="company-name" target="_blank" title="吉贝克信息技术（北京）有限公司">吉贝克信息技术（北京）有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC120028993J90250400000_530_1_31_301__1_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC120107107J00052320514_530_1_31_301__1_" onclick="unChkSelectAll('allvacancyid')" type="checkbox"><a href="http://jobs.zhaopin.com/CC120107107J00052320514.htm" par="ssidkey=y&ff=ssb&ss=301" class="job-name" target="_blank" title="python开发工程师">python开发工程师</a></p><p class="ptwo"><a href="http://company.zhaopin.com/P1/CC1201/0710/CC120107107.htm" class="company-name" target="_blank" title="中盈优创资讯科技有限公司">中盈优创资讯科技有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC120107107J00052320514_530_1_31_301__1_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC265698431J00026228815_530_1_31_301__1_" onclick="unChkSelectAll('allvacancyid')" type="checkbox"><a href="http://jobs.zhaopin.com/CC265698431J00026228815.htm" par="ssidkey=y&ff=ssb&ss=301" class="job-name" target="_blank" title="python工程师">python工程师</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CC265698431.htm" class="company-name" target="_blank" title="中存软件(北京)有限公司">中存软件(北京)有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC265698431J00026228815_530_1_31_301__1_')"></strong></p></li><li><p class="pone"><input checked="" name="vacancyid" value="CC544024686J90250021000_530_1_31_301__1_" onclick="unChkSelectAll('allvacancyid')" type="checkbox"><a href="http://jobs.zhaopin.com/544024686250021.htm" par="ssidkey=y&ff=ssb&ss=301" class="job-name" target="_blank" title="Python开发工程师（北京）">Python开发工程师（北京）</a></p><p class="ptwo"><a href="http://company.zhaopin.com/CZ544024680.htm" class="company-name" target="_blank" title="深圳市前海谷雨网络科技有限公司">深圳市前海谷雨网络科技有限公司</a><span class="w150">地点：北京</span></p><p class="pthree fr"><strong onclick="applyjob('CC544024686J90250021000_530_1_31_301__1_')"></strong></p></li>
+</ul>
+<div class="applay-All dlapplay-all applay-All-b">
+<label><input type="checkbox" onclick="ChkSelectAll('vacancyid', 'allvacancyid', this)" name="allvacancyid" checked="" id="allvacancyid">全选</label><button onclick="return CheckApply(event);" class="selectall-btn" type="button"></button>
+</div><p class="see-more fr"><a rel="nofollow" href="//my.zhaopin.com/myzhaopin/SimilarPosition.asp?pid=CC390261416J90251663000&edu=4&ind=201100&miny=&subtype=131&cityid=530" target="blank" onclick="dyweTrackEvent('bjobsdetail14gb', 'showmoresimjobs');">查看更多相似职位推荐 &gt;&gt;</a></p>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="terminalpage-right">
+<div class="company-box">
+<p class="img-border"><a href="http://company.zhaopin.com/CZ390261410.htm" onclick="recordOutboundLink(this,'terminalpage','tocompanylink4')" target="_blank"><img src="//company.zhaopin.com/CompanyLogo/20171025/8A0971FC9E494BC09A6C8942BA92FA32.gif" border="0" alt="北京千锋互联科技有限公司" /></a></p>
+<p class="company-name-t"><a rel="nofollow" href="http://company.zhaopin.com/CZ390261410.htm" target="_blank">北京千锋互联科技有限公司 <img class="icon_vip" src="//img03.zhaopin.cn/IHRNB/img/detailvipm.png" border="0" vinfo="%7b%22endtime%22%3a1564675199000%2c%22limitcount%22%3a2000%2c%22orgid%22%3a39026141%2c%22rdorgid%22%3a39026141%2c%22staffid%22%3a0%2c%22starttime%22%3a1500110710901%2c%22total%22%3a2000%2c%22type%22%3a1005%2c%22userid%22%3a1%2c%22vipName%22%3a%22%e6%99%ba%e4%ba%abVIP%e4%bc%9a%e5%91%98%22%7d"/></a></p>
+<ul class="terminal-ul clearfix terminal-company mt20">
+<li><span>公司规模：</span><strong>500-999人</strong></li>
+<li><span>公司性质：</span><strong>民营</strong></li>
+<li><span>公司行业：</span><strong><a target="_blank" href="//jobs.zhaopin.com/beijing/in201100/">教育/培训/院校</a></strong></li>
+<li>
+<span>公司地址：</span><strong>
+郑州市二七区航海中路60号海为科技园C区10/12层<br>
+</strong>
+</li>
+</ul>
+<input type="hidden" id="displayRegionScopeId" name="displayRegionScopeId" value="0" />
+</div>
+<div class="terminalpage-advertising">
+<ul id="job-advertising"></ul>
+</div>
+</div>
+</div>
+<div class="bottom-list clearfix">
+<div id="footerSearchBar">
+<div class="sbf"> </div>
+<form name="frmSearch_bottom" method="get" onsubmit="return zlzp.searchjob.gotoSearch_t(document.frmSearch_bottom)">
+<input type="hidden" name="page" value="" />
+<input type="hidden" name="SchJobType" value="" />
+<input type="hidden" name="subJobtype" value="" />
+<input type="hidden" name="industry" value="" />
+<input type="hidden" name="PublishDate" value="" />
+<input type="hidden" name="sortby" value="" />
+<input type="hidden" name="SearchModel" value="0" />
+<input type="hidden" name="ref" value="jobsearch" />
+<input type="hidden" name="f_kw" value="" />
+<div class="sbc">
+<ul>
+<li class="searchBarSelect">
+<input type="button" id="buttonSelJobType_bottom" name="buttonSelJobType" value="选择职位" title="选择职位" onClick="dyweTrackEvent('choosepost','postsearchsetting001')"/>
+</li>
+<li class="searchBarSelect">
+<input type="button" id="buttonSelIndustry_bottom" name="buttonSelIndustry" value="选择行业" title="选择行业" onClick="dyweTrackEvent('chooseindustry','postsearchsetting001')"/>
+</li>
+<li>
+<div class="keyword_bottombox">
+<input type="text" class="keyword inputTips" name="KeyWord" id="KeyWord_kw2_bottom" value="" onfocus="zlzp.clearDefTxt(this,zlzp.searchjob.k_tips);" onblur="zlzp.setDefTxt(this,zlzp.searchjob.k_tips);" maxlength="100" style="color: rgb(204, 204, 204);" />
+</div>
+</li>
+<li class="searchBarSelect searchBarSelects">
+<input type="text" class="cityInput inputTips" id="JobLocation_bottom" name="JobLocation" value="" onfocus="zlzp.clearDefTxt(this,zlzp.searchjob.c_tips);" onblur="zlzp.setDefTxt(this,zlzp.searchjob.c_tips);" style="color: rgb(204, 204, 204);" />
+<input type="button" id="buttonSelCity_bottom" name="buttonSelCity" title="选择城市" class="cityButton" onClick="dyweTrackEvent('choosecity','postsearchsetting001')"/>
+</li>
+<li style="margin-right: 0px">
+<button class="doSearch" onclick="dyweTrackEvent('searchjob', 'postsearchsetting001'); zlzp.searchjob.gotoSearch_t(document.frmSearch_bottom);"></button>
+</li>
+</ul>
+</div>
+</form>
+<div class="sbl"> </div>
+<div style="clear: both"> </div>
+</div>
+<div class="bottom_container">
+<div class="bottom_t">
+<ul>
+<li class="posi_te">您也许对以下职位类别感兴趣:</li>
+<li><a target="_blank" href="//jobs.zhaopin.com/beijing/sj8056/">北京俄语教师招聘</a></li>
+<li><a target="_blank" href="//jobs.zhaopin.com/beijing/sj4105/">北京课程顾问招聘</a></li>
+<li><a target="_blank" href="//jobs.zhaopin.com/beijing/sj4039/">北京体育教练招聘</a></li>
+<li><a target="_blank" href="//jobs.zhaopin.com/beijing/sj627/">北京初中教师招聘</a></li>
+<li><a target="_blank" href="//jobs.zhaopin.com/beijing/sj626/">北京职业技术教师招聘</a></li>
+<li><a target="_blank" href="//jobs.zhaopin.com/beijing/sj625/">北京高中教师招聘</a></li>
+<li><a target="_blank" href="//jobs.zhaopin.com/beijing/sj624/">北京学校校长招聘</a></li>
+<li><a target="_blank" href="//jobs.zhaopin.com/beijing/sj793/">北京外语教师招聘</a></li>
+<li><a target="_blank" href="//jobs.zhaopin.com/beijing/sj792/">北京文科教师招聘</a></li>
+<li><a target="_blank" href="//jobs.zhaopin.com/beijing/sj790/">北京音乐教师招聘</a></li>
+</ul>
+</div>
+<div class="bottom_m">
+<ul>
+<li class="posi_hot">热门职位推荐:</li>
+<li><a target="_blank" href="//jobs.zhaopin.com/hot_jzspys/">建造师培训师招聘</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hot_yyzlpys/">英语助理培训师招聘</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hot_bmpyszl/">部门培训师助理招聘</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hot_yyspyszl/">英语师培训师助理招聘</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hot_cspys/">CS培训师招聘</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hot_xsjcpys/">销售基础培训师招聘</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hot_smcppys/">数码产品培训师招聘</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hot_hzpyszg/">化妆培训师主管招聘</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hot_cpyfpys/">产品研发培训师招聘</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hot_pyszy/">培训师专员招聘</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hot_dpyypys/">店铺运营培训师招聘</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hot_xsjlpys/">销售激励培训师招聘</a></li>
+</ul>
+</div>
+<div class="bottom_b">
+<ul>
+<li class="posi_rou">周边城市:</li>
+<li><a target="_blank" href="//jobs.zhaopin.com/tianjin/">天津人才网</a></li><li><a target="_blank" href="//jobs.zhaopin.com/shijiazhuang/">石家庄人才网</a></li><li><a target="_blank" href="//jobs.zhaopin.com/zhangjiakou/">张家口人才网</a></li><li><a target="_blank" href="//jobs.zhaopin.com/baoding/">保定人才网</a></li><li><a target="_blank" href="//jobs.zhaopin.com/langfang/">廊坊人才网</a></li><li><a target="_blank" href="//jobs.zhaopin.com/tangshan/">唐山人才网</a></li><li><a target="_blank" href="//jobs.zhaopin.com/chengde/">承德人才网</a></li><li><a target="_blank" href="//jobs.zhaopin.com/qinhuangdao/">秦皇岛人才网</a></li><li><a target="_blank" href="//jobs.zhaopin.com/cangzhou/">沧州人才网</a></li><li><a target="_blank" href="//jobs.zhaopin.com/hengshui/">衡水人才网</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="back-to"> </div>
+<div id="zlzp_jsc"> </div>
+<div style="clear: both;"> </div>
+<div class="addpopupApply" style="width:340px;left: 750px; top: 469px; display: none; opacity: 1;">
+<div class="topBar">
+<p>收藏</p>
+<a title="关闭"><img src="//img02.zhaopin.cn/2014/common/img/icon_close_mout.gif"></a>
+</div>
+<div style="position: relative;">
+<div class="mainBlock">
+<div id="loginBlock">
+<div id="sou-collect" class="sou-collect">
+<div id="sou-collect-title" class="collect-title"><i></i> 收藏成功 </div>
+<div id="sou-collect-content" class="collect-content"> 您可以在 <a target="_blank" href="//my.zhaopin.com/myzhaopin/jobmng_fav.asp">职位收藏夹</a> 中查看 </div>
+</div>
+<p class="buttons"><span class="popupCancelBtn">关闭</span></p>
+</div>
+</div>
+<div class="loading" style="width: 420px; height: 129px; visibility: visible; display: none;"></div>
+</div>
+</div>
+<div class="layer-01"></div>
+<input type="hidden" id="jobcode" value="1" />
+<div class="allfoot_link">
+<div class="allfoot_linkcon">
+<a onmousedown="return AdsClick(121115223, 'zhilianjieshao')" target="_blank" href="http://special.zhaopin.com/sh/2009/aboutus/about.html" rel="nofollow">智联介绍</a> | <a target="_blank" href="http://www.zhaopin.com/sitemap.html">网站地图</a> | <a onmousedown="    return AdsClick(121115223, 'jiaruzhilian')" target="_blank" href="http://special.zhaopin.com/sh/2009/aboutus/join.html" rel="nofollow">加入智联</a> | <a onmousedown="    return AdsClick(121115223, 'falvshengming')" target="_blank" href="http://special.zhaopin.com/sh/2009/aboutus/law.html" rel="nofollow">法律声明</a> | <a onmousedown="    return AdsClick(121115223, 'baomichengnuo')" target="_blank" href="http://special.zhaopin.com/sh/2009/aboutus/secrecy.html" rel="nofollow">隐私政策</a> | <a onmousedown="    return AdsClick(121115223, 'lianxifangshi')" target="_blank" href="http://special.zhaopin.com/sh/2009/aboutus/contact.html" rel="nofollow">联系方式</a> | <a onmousedown="    return AdsClick(121115223, 'changjianwenti')" target="_blank" href="http://jobseeker.zhaopin.com/zhaopin/faq/question.html" rel="nofollow">常见问题</a> | <a onmousedown="    return AdsClick(121115223, 'touzizheguanxi')" target="_blank" href="http://ir.zhaopin.com" rel="nofollow">Investor Relations</a>您对 Zhaopin.com 有任何建议或意见请<a onclick="window.open('http://img00.zhaopin.cn/2014/common/html/rdimpop.html', '_blank', 'width=702,height=702,left=100,top=60,scrollbars=0,overflow=auto,status=0');" onmousedown="    return AdsClick(121115223, 'contactus')" href="#" rel="nofollow">联系我们</a><br>未经zhaopin.com 同意，不得转载本网站之所有招聘信息及作品
+智联招聘网版权所有 ©<br>京ICP备12025925号 <a href="http://www.miibeian.gov.cn" target="_blank">京ICP证010207号</a> 电信业务审批[2001]字第233号函<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502002133" class="foot_public" rel="nofollow">京公网安备11010502002133号</a>
+</div>
+</div>
+<script type="text/javascript" src="//img01.zhaopin.cn/2012/js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="//jobsgg.zhaopin.com/ZHAOPIN_JOB_DETAIL_RIGHT_BEIJING.htm" id="positionad"></script>
+<link href="//img01.zhaopin.cn/2014/common/css/reset-min.css" rel="stylesheet" type="text/css" />
+<link href="//img01.zhaopin.cn/2014/common/css/feedback/feedback-tip.css" rel="stylesheet" type="text/css" />
+<script src="//img01.zhaopin.cn/2014/common/js/jobapply/job-apply.js"></script>
+<script src="//img01.zhaopin.cn/2014/common/js/window.dialog.01.js"></script>
+<script type="text/javascript" src="//img01.zhaopin.cn/2012/js/basedata.js"></script>
+<script type="text/javascript" src="//img02.zhaopin.cn/2012/js/jobs/terminalpage_new.js?version=20180301"></script>
+<script type="text/javascript" src="//img02.zhaopin.cn/2014/common/js/zpidc.utils.js"></script>
+<script type="text/javascript" src="//img01.zhaopin.cn/2014/common/js/zpidc.login.js"></script>
+<script type="text/javascript" src="//img01.zhaopin.cn/2014/jobs/js/ajaxapplynow.js?version=20180301"></script>
+<script type="text/javascript" src="//img02.zhaopin.cn/2012/js/sou/searchresult1.js?version=20180301"></script>
+<script type="text/javascript" src="//img01.zhaopin.cn/2014/jobs/js/best-plugs.js"></script>
+<script type="text/javascript" src="//img03.zhaopin.cn/2014/jobs/js/ga.js?version=20180301?version=20180228"></script>
+<script type="text/javascript" src="//img04.zhaopin.cn/2012/js/za/ga.js?version=20180228"></script>
+<script type="text/javascript">
+        try {
+            var _mvq = window._mvq || [];
+            window._mvq = _mvq;
+            _mvq.push(['$setAccount', 'm-196569-0']);
+
+            _mvq.push(['$setGeneral', 'goodsdetail', '', /*用户名*/ '', /*用户id*/ '']);
+            _mvq.push(['$logConversion']);
+
+            _mvq.push(['setPageUrl', /*单品着陆页url*/ '']); //如果不需要特意指定单品着陆页url请将此语句删掉
+            _mvq.push(['$addGoods', /*分类id*/ '', /*品牌id*/ '', /*商品名称*/ 'Python讲师', /*商品ID*/_getproductid(), /*商品售价*/ _getsalary(), /*00商品图片url*/ _getcomplogo(), /*分类名*/ _getindustry(), /*品牌名*/ '', /*商品库存状态1或是0*/ '', /*网络价*/ '', /*收藏人数*/ '', /*商品下架时间*/ '']);
+            _mvq.push(['$addPricing', /*价格描述*/ _getsalary()]);
+            _mvq.push(['$logData']);
+            
+            function _getsalary() {
+                var s = '15000-25000元/月';
+                var g = new RegExp('\\d+', 'g');
+                if (g.test(s)) {
+                    var t = g.exec(s);
+                    var a = [];
+                    while (t) {
+                        a.push(Number(t[0]));
+                        t = g.exec(s);
+                    }
+                    return a.sort(function(x, y) { return x - y; }).reverse()[0];
+                } else {
+                    return s;
+                }
+            }
+			
+			function _getindustry(){
+			    var s = '<a target="_blank" href="//jobs.zhaopin.com/beijing/in201100/">教育/培训/院校</a>';
+			    var g = new RegExp('<\/?a[^>]*>', 'g');
+				s = s.replace(g,'');
+				return s;
+			}
+
+            function _getproductid() {
+                var g = new RegExp('\\d+');
+                return g.exec('http://jobs.zhaopin.com/390261416251663.htm')[0];
+            }
+
+            function _getcomplogo() {
+                var logo = '//company.zhaopin.com/CompanyLogo/20171025/8A0971FC9E494BC09A6C8942BA92FA32.gif';
+                if (logo.replace(/\s+/g, '').length == 0) {
+                    logo = '//img01.zhaopin.cn/2014/rd2/img/default360.jpg';
+                }
+                return logo;
+            }
+
+        } catch (e) {
+            
+        }
+    </script>
+</body>
+</html>
