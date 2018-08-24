@@ -1,3 +1,3 @@
 # learning_python
-note
+- note
 - Python学习笔记
